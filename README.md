@@ -1,24 +1,21 @@
-[![WEiTI PW](/img/WEiTI-znak-RGB.png "WEiTI PW")](http://www.elka.pw.edu.pl)
-
-
 ***
 
 ***
 
-# Cyfrowe Przetwarzanie Sygnałów Fonicznych 20L
+# Cyfrowa Technika Foniczna 2020Z
 
-### **LABORATORIUM 1** | Próbkowanie, kwantyzacja i kształtowanie widma szumu rekwantyzacji
+### **LABORATORIUM 3** | Próbkowanie, kwantyzacja i kształtowanie widma szumu rekwantyzacji
 
 #### Niezbędne oprogramowanie i sprzęt.
 Przed przystąpieniem do wykonania ćwiczenia laboratoryjnego należy **pobrać i zainstalować** darmowe [oprogramowanie do wizualizcji, analizy i edycji plików dźwiękowych](https://www.sonicvisualiser.org/) w sekcji "Download" i dalej zgodnie z używanym system operacyjnym. Zalecane jest, aby odsłuchiwanie próbek dźwiękowych odbywało się za pomocą **słuchawek nausznych lub dousznych** (niezalecany jest odsłuch za pomocą wbudowanych lub zewnętrznych głośników komputerowych).
 
 ### Sprawozdania
 
-Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pdf, Markdown, LaTex) należy umieszczać w repozytorium wydziałowego systemu [GitLab](https://gitlab-stud.elka.pw.edu.pl/). Po zalogowaniu się do systemu każdy powinien utworzyć nowy projekt (w lewym górnym rogu `Projects` -> `Your Projects`, a następnie przycisk w prawym górnym rogu `New Project` z zaznaczoną opcją `Initialize repository with a README`) o nazwie <103A-ELxxx-MSP-CPSF-20L_SPR>. W projekcie za pomocą ikony ze znakiem `+` proszę dodać nowy folder o nazwie <Lab 1> i tam umieścić plik lub pliki ze sprawozdaniem.
+Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pdf, Markdown, LaTex) należy umieszczać w repozytorium [GitHub](https://github.com/). Po zalogowaniu się do systemu każdy powinien utworzyć nowe repozytorium o nazwie <CTF2020Z_SPR> i tam umieścić plik/pliki ze sprawozdaniem.
 
 ### Pliki dźwiękowe
 
-Wszystkie niezbędne do wykonania ćwiczenia pliki dźwiękowe znajdują się w folderze `./Samples` w repozytorium. Są one również spakowane w archiwum umieszczonym [tutaj](https://wutwaw.sharepoint.com/:u:/s/CPSF/EabScP3EfL9BmUnD-UWk_LoBbH72ppQFeW1q4KkoW78Qxw?e=eBzULk).
+Wszystkie niezbędne do wykonania ćwiczenia pliki dźwiękowe znajdują się w folderze `./Samples` w repozytorium.
 
 ***
 
