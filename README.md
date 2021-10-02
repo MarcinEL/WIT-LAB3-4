@@ -2,7 +2,7 @@
 
 ***
 
-# Cyfrowa Technika Foniczna 2020Z
+# Cyfrowa Technika Foniczna 2021Z
 
 ### **LABORATORIUM 3** | Próbkowanie, kwantyzacja i kształtowanie widma szumu rekwantyzacji
 
@@ -11,7 +11,7 @@ Przed przystąpieniem do wykonania ćwiczenia laboratoryjnego należy **pobrać 
 
 ### Sprawozdania
 
-Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pdf, Markdown, LaTex) należy umieszczać w repozytorium [GitHub](https://github.com/). Po zalogowaniu się do systemu każdy powinien utworzyć nowe repozytorium o nazwie <CTF2020Z_SPR> i tam umieścić plik/pliki ze sprawozdaniem.
+Plik lub pliki ze sprawozdaniem (w dowolnym formacie: *.rtf, *.doc, *.docx, *.pdf, Markdown, LaTex) należy umieszczać w repozytorium [GitHub](https://github.com/). Po zalogowaniu się do systemu każdy powinien utworzyć nowe repozytorium o nazwie <CTF2021Z_SPR> i tam umieścić plik/pliki ze sprawozdaniem.
 
 ### Pliki dźwiękowe
 
